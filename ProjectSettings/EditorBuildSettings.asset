@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/PsyPuppets/Levels/Common/Main.unity
+    guid: e67e270e9af99d3479571b4c3604e264
+  - enabled: 1
+    path: Assets/PsyPuppets/UI/Menus/StartMenu.unity
+    guid: 6c1c440e0dbc2554081eb573f5b49167
+  - enabled: 1
+    path: Assets/PsyPuppets/Levels/Level1/Level1.unity
+    guid: 8be165ad47e0e6746b0f66462c00c35c
+  - enabled: 1
+    path: Assets/PsyPuppets/Levels/Level2/Level2.unity
+    guid: b4ce49ed9fd2821488cf8896e5e1a3b4
+  - enabled: 1
+    path: Assets/PsyPuppets/UI/Menus/GameOver.unity
+    guid: 3f78ae82058d0a14086566b470e6ed28
+  m_configObjects: {}
